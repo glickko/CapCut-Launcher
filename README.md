@@ -24,7 +24,7 @@ I don't support piracy or any illegal stuff. Please don't use this to make money
 ### **HOW TO USE**
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/11b660ee-79c0-4bbd-8a03-ef12503cce43" alt="How to Use Video"/>
+  https://github.com/user-attachments/assets/11b660ee-79c0-4bbd-8a03-ef12503cce43
 </p>
 Getting this to work is super easy.
 
