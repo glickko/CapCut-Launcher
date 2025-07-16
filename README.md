@@ -23,7 +23,7 @@ I don't support piracy or any illegal stuff. Please don't use this to make money
 ---
 ### **HOW TO USE**
 ---
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1W0mnaRh6Afsu6E1DRUYkCULmz2167J49/view?usp=sharing))
 Getting this to work is super easy.
 
 **1. Installation:**
