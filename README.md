@@ -23,8 +23,8 @@ I don't support piracy or any illegal stuff. Please don't use this to make money
 ---
 ### **HOW TO USE**
 ---
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1W0mnaRh6Afsu6E1DRUYkCULmz2167J49/view?usp=sharing)
-Getting this to work is super easy.
+[![Watch the video](https://i.ytimg.com/vi/eyyjXK1bJE0/maxresdefault.jpg)](https://youtu.be/eyyjXK1bJE0)
+- Getting this to work is super easy.
 
 **1. Installation:**
    - Just drop my `CC-Launcher.exe` into the same folder as your CapCut installation. It should look like this:
