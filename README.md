@@ -6,7 +6,7 @@
 I create this launcher after CapCut last release in last year.
 and I need to be very clear about this: I made this tool for educational and research purposes only. The goal is to show the CapCut developers where some of the holes are in their software, especially with `VECreator.dll` `VESafeGuard.dll`.
 
-- This Launcher is not Public shareable, and i think this is best strings i found ever, i already trying many strings still get internet error in many version. and yeah if you want it, you can try this via DM my discord all in your own risk.
+- This Launcher is not Public shareable, and i think this is best strings i found ever, i already trying many strings still get internet error in many version. 
 
 
 Bypassing:
