@@ -23,7 +23,9 @@ I don't support piracy or any illegal stuff. Please don't use this to make money
 ---
 ### **HOW TO USE**
 ---
-[![Watch the video](https://i.ytimg.com/vi/eyyjXK1bJE0/maxresdefault.jpg)](https://youtu.be/eyyjXK1bJE0)
+<a href="https://www.youtube.com/watch?v=eyyjXK1bJE0">
+  <img src="https://img.youtube.com/vi/eyyjXK1bJE0/maxresdefault.jpg" alt="Video Preview">
+</a>
 - Getting this to work is super easy.
 
 **1. Installation:**
