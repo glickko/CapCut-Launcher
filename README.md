@@ -23,12 +23,7 @@ I don't support piracy or any illegal stuff. Please don't use this to make money
 ---
 ### **HOW TO USE**
 ---
-<h1>Check out how to use this thing:</h1>
-
-<video width="720" controls>
-  <source src="./assets/How To Use.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/11b660ee-79c0-4bbd-8a03-ef12503cce43
 Getting this to work is super easy.
 
 **1. Installation:**
