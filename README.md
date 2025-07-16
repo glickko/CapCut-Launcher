@@ -1,14 +1,22 @@
-================================================================================
+
 
 ---
 ### **DISCLAIMER**
 ---
 I create this launcher after CapCut last release in last year.
 and I need to be very clear about this: I made this tool for educational and research purposes only. The goal is to show the CapCut developers where some of the holes are in their software, especially with `VECreator.dll` `VESafeGuard.dll`.
+This Launcher is not Public shareable. but if you want it, you can try this via DM my discord.
+Bypassing
 
+Pro Export Features
+Login
+Internet Error Limited Export
+
+
+**WARNING**
 I don't support piracy or any illegal stuff. Please don't use this to make money or get around buying the software. If you use this tool, you're agreeing that it's for your own education and you're using it at your own risk. I'm not responsible for what you do with it.
 
-**Heads up: This is only meant to work with CapCut version 3.8.0.1400.**
+**Heads up: This is only meant to work with CapCut version i Patched**
 
 ---
 ### **HOW TO USE**
@@ -20,7 +28,7 @@ Getting this to work is super easy.
    - Just drop my `CC-Launcher.exe` into the same folder as your CapCut installation. It should look like this:
      ```
      My-Capcut-Folder/
-     |-- 3.8.0.1400/      <-- Your CapCut installation
+     |-- CapCut xxx Version     <-- Your CapCut installation
      |   |-- CapCut.exe
      |   |-- ...
      |
