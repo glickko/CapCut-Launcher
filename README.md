@@ -6,8 +6,9 @@
 I create this launcher after CapCut last release in last year.
 and I need to be very clear about this: I made this tool for educational and research purposes only. The goal is to show the CapCut developers where some of the holes are in their software, especially with `VECreator.dll` `VESafeGuard.dll`.
 This Launcher is not Public shareable. but if you want it, you can try this via DM my discord.
-Bypassing
 
+
+Bypassing:
 Pro Export Features
 Login
 Internet Error Limited Export
