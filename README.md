@@ -6,7 +6,7 @@
 I create this launcher after CapCut last release in last year.
 and I need to be very clear about this: I made this tool for educational and research purposes only. The goal is to show the CapCut developers where some of the holes are in their software, especially with `VECreator.dll` `VESafeGuard.dll`.
 
-- This Launcher is not Public shareable i only use for my self, but i in here i just sharing for education, and i think this is best strings i found ever, i already trying many strings still get internet error in many version and actually i found perfectly in capcut `Test Version`. 
+- This Launcher is not Public shareable i only use for my self, but in here i just sharing for education, and i think this is best strings i found ever, i already trying many strings still get internet error in many version and actually i found perfectly in capcut `Test Version`. 
 
 
 Bypassing:
@@ -16,7 +16,7 @@ Internet Error Limited Export
 
 
 **WARNING**
-I don't support piracy or any illegal stuff. Please don't use this to make money or get around buying the software. If you use this tool, you're agreeing that it's for your own education and you're using it at your own risk. I'm not responsible for what you do with it.
+I don't support piracy or any illegal stuff. Iam not use this to make money or anything related on that. If you found this tool in internet, you're agreeing that it's for your own education and you're using it at your own risk. I'm not responsible for what you do with it.
 
 **Heads up: This is only meant to work with CapCut version i Patched**
 
@@ -50,7 +50,7 @@ I don't support piracy or any illegal stuff. Please don't use this to make money
    - **Force Close CapCut:** If CapCut freezes up, this button will take care of it.
 
 **4. Exiting:**
-   - When you close my launcher, it automatically force-closes CapCut and puts everything back to the original, unpatched state. This makes sure your system is left totally clean.
+   - When close my launcher, it automatically force-closes CapCut and puts everything back to the original, unpatched state. This makes sure your system is left totally clean.
 
 ---
 ### **HOW MY LAUNCHER WORKS**
