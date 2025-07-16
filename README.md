@@ -69,7 +69,7 @@ This patch is the result of a standard reverse engineering workflow. The launche
 
 **4. Dynamic Analysis (x64dbg + Plugins):**
    - With the anti-debug bypassed, I could now attach x64dbg to the running CapCut process. I used plugins like ScyllaHide to further mask the debugger's presence.
-   - I set breakpoints on the functions I had identified in Ghidra. By triggering Pro features and Log In, in the app, I could hit these breakpoints and step through the code line-by-line. This allowed me to see exactly which conditional jumps (`JNE`, `JNZ`, `ret`, `null`, etc.) were responsible for the "access denied" logic.
+   - I set breakpoints on the functions I had identified in Ghidra. By triggering Pro features and Log In, in the app, I could hit these breakpoints and step through the code line-by-line. This allowed me to see exactly which conditional jumps (`JNE`, `JNZ` etc.) change into (`ret`, `null`, `JMP`, etc) were responsible for the "access denied" logic.
 
 **5. Automation (This Launcher):**
    - The final step was to make these changes permanent without needing a debugger every time. I noted the exact hex bytes of the conditional jumps I wanted to bypass.
