@@ -10,8 +10,8 @@ and I need to be very clear about this: I made this tool for educational and res
 
 
 Bypassing:
-Pro Export Features
-Login
+Pro Export Features,
+Login,
 Internet Error Limited Export
 
 
